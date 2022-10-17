@@ -8,4 +8,5 @@ How to run?
 -Run the server first. ( ./server )
 -Then, create a number of clients by running "client.c".
 -When creating a client, you must give it a unique id as a argv parameter. ( example: ./client jack )
+-Please read the message right after sending it. Do not send more than one message to the same client without reading first.
 Rest is easy to understand if you follow the commands I printed on the screen.
